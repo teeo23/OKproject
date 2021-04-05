@@ -11,5 +11,5 @@ The purpose of this project is to practice formulating questions
 and implementing machine learning techniques to answer those questions.
 
 
-Any help is welcome
+Any help and/or feedback is welcome.
 
